@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">lab4</string>
+    <string-array name="spinner2">
+        <item>Pies</item>
+        <item>Kot</item>
+        <item>Niedźwiedź</item>
+        <item>Lis</item>
+        <item>Krowa</item>
+    </string-array>
 </resources>
